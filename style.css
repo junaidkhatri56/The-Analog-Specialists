@@ -6,3 +6,74 @@
 html{
     font-size: 62.5%;
 }
+body{
+    border: 2px double #000000;
+    padding: 50px 200px;
+}
+
+/* sec-1 */
+
+.sec-1 h5{
+    font-size: 1.8rem;
+    text-align: center;
+    font-weight: lighter;
+}
+.sec-1 h1{
+    font-size: 3.8rem;
+    text-align: center;
+    margin: -6px 0;
+}
+.sec-1 h3{
+    font-size: 2.2rem;
+    text-align: center;
+    font-weight: lighter;
+    letter-spacing: 3px;
+    padding-bottom: 30px;
+}
+
+
+/* sec-2 */
+
+.sec-2 {
+    margin-left: 11.3%;
+    border-top: 2px solid #000000;
+    border-bottom: 2px solid #000000;
+    padding: 20px 0;
+}
+.sec-2 a{
+    display: inline-block;
+    text-decoration: none;
+    color: #000000;
+    font-size: 20px;
+    padding-left: 60px;
+    margin: 0 auto;
+}
+.active{
+    color: #ff0000 !important;
+}
+
+
+/* sec-3 */
+
+.sec-3{
+    margin-left: 11.3%;
+}
+.sec-3 img {
+    width: 33.5%;
+    margin: 0 -2px;
+    padding: 30px 0 40px;
+}
+
+
+/* sec-4 */
+
+.sec-4 {
+    margin-left: 11%;
+}
+.sec-4 p {
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 5px;
+    word-spacing: 6px;
+    font-weight: bold;
+}
